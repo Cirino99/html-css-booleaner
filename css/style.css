@@ -39,10 +39,7 @@
 #thead{
     background-color: rgb(32,169,229);
     color: white;
-}
-#thead p {
-    display:inline-block;
-    margin: 0%;
+    text-align: left;
 }
 .pcolonna {
     width: 23%;
@@ -52,18 +49,10 @@
 }
 .tcolonna {
     width: 50%;
-    margin: 0%;
-    display: inline-block;
-    vertical-align: middle;
-    line-height: normal;
 }
 .tbody {
     height: 90px;
     line-height: 90px;
-}
-.tbody p {
-    display:inline-block;
-    margin-top: 0%;
 }
 #priga {
     background-color: rgb(177,229,242);
