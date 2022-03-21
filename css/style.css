@@ -13,7 +13,7 @@
 
 /* stile main titolo */
 #titolo h1{
-    font-size: 28px;
+    font-size: 40px;
     margin-bottom: 1px;
 }
 #titolo div {
@@ -30,6 +30,9 @@
 }
 
 /* stile main */
+.sec-main {
+    font-size: 18px;
+}
 .evidenziato{
     background-color: yellow;
 }
@@ -55,8 +58,8 @@
     line-height: normal;
 }
 .tbody {
-    height: 80px;
-    line-height: 80px;
+    height: 90px;
+    line-height: 90px;
 }
 .tbody p {
     display:inline-block;
@@ -67,4 +70,35 @@
 }
 #triga {
     background-color: rgb(177,229,242);
+}
+
+/* stile footer */
+.footer strong {
+    color: gray;
+}
+.footer div {
+    height: 150px;
+    width: 180px;
+}
+#pimmagine{
+    margin-top: 15px;
+    background-image: url("/img/monitor.jpg");
+    background-position: center;
+    padding: 15px;
+}
+#simmagine{
+    margin-top: 10px;
+    background-image: url("/img/graph.jpg");
+    background-position: center;
+    padding: 15px;
+}
+#pimmagine strong{
+    color: white;
+    font-size: 18px;
+}
+#simmagine strong{
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    margin-top: 10px;
 }
