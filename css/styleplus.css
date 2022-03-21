@@ -59,10 +59,6 @@ main{
 .tcolonna {
     width: 50%;
 }
-.tbody {
-    height: 90px;
-    line-height: 90px;
-}
 #priga {
     background-color: rgb(177,229,242);
 }
@@ -101,6 +97,4 @@ footer {
 #simmagine strong{
     color: white;
     font-size: 18px;
-    padding: 10px;
-    margin-top: 10px;
 }
