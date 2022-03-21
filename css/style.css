@@ -10,3 +10,20 @@
 #logo {
     width: 200px; height: auto;
 }
+
+/* stile main titolo */
+#titolo h1{
+    font-size: 28px;
+    margin-bottom: 1px;
+}
+#titolo div {
+    margin-top: 3px;
+    color: gray;
+    margin-bottom: 25px;
+}
+#titolo span {
+    color: rgb(78,160,255);
+}
+#titolo figure {
+    margin-left: 3px;
+}
