@@ -26,4 +26,45 @@
 }
 #titolo figure {
     margin-left: 3px;
+    font-size: 12px;
+}
+
+/* stile main */
+.evidenziato{
+    background-color: yellow;
+}
+#thead{
+    background-color: rgb(32,169,229);
+    color: white;
+}
+#thead p {
+    display:inline-block;
+    margin: 0%;
+}
+.pcolonna {
+    width: 23%;
+}
+.scolonna {
+    width: 23%;
+}
+.tcolonna {
+    width: 50%;
+    margin: 0%;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+.tbody {
+    height: 80px;
+    line-height: 80px;
+}
+.tbody p {
+    display:inline-block;
+    margin-top: 0%;
+}
+#priga {
+    background-color: rgb(177,229,242);
+}
+#triga {
+    background-color: rgb(177,229,242);
 }
