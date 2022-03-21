@@ -7,6 +7,10 @@
     padding-bottom: 10px;
     padding-left: 10px;
 }
+.bar div {
+    width: 90%;
+    margin: auto;
+}
 #logo {
     width: 200px;
     height: auto;
@@ -31,6 +35,10 @@
 }
 
 /* stile main */
+main{
+    width: 90%;
+    margin: auto;
+}
 .sec-main {
     font-size: 18px;
 }
@@ -63,6 +71,10 @@
 }
 
 /* stile footer */
+footer {
+    width: 90%;
+    margin: auto;
+}
 .footer strong {
     color: gray;
 }
