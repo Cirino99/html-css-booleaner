@@ -1,7 +1,7 @@
 /* stile header */
 .bar {
     background-color: rgb(78,160,255);
-    background-image: url("/img/pattern.png");
+    background-image: url("../img/pattern.png");
     background-size: 450px auto;
     padding-top: 50px;
     padding-bottom: 10px;
@@ -80,13 +80,13 @@ footer {
 }
 #pimmagine{
     margin-top: 15px;
-    background-image: url("/img/monitor.jpg");
+    background-image: url("../img/monitor.jpg");
     background-position: center;
     padding: 15px;
 }
 #simmagine{
     margin-top: 10px;
-    background-image: url("/img/graph.jpg");
+    background-image: url("../img/graph.jpg");
     background-position: center;
     padding: 15px;
 }
